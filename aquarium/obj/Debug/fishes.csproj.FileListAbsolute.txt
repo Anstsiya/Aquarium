@@ -1,0 +1,7 @@
+E:\study\smoktiy\fish2\fishes\fishes\bin\Debug\fishes.exe.config
+E:\study\smoktiy\fish2\fishes\fishes\bin\Debug\fishes.exe
+E:\study\smoktiy\fish2\fishes\fishes\bin\Debug\fishes.pdb
+E:\study\smoktiy\fish2\fishes\fishes\obj\Debug\fishes.csprojAssemblyReference.cache
+E:\study\smoktiy\fish2\fishes\fishes\obj\Debug\fishes.csproj.CoreCompileInputs.cache
+E:\study\smoktiy\fish2\fishes\fishes\obj\Debug\fishes.exe
+E:\study\smoktiy\fish2\fishes\fishes\obj\Debug\fishes.pdb
