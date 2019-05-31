@@ -167,11 +167,11 @@ namespace aquarium.aquarium
             {
                 cellsAround.Add(new int[] { currentRow - 1, currentCol });
             }
-            if (currentCol + 1 <= aquariumSizeColumn )
+            if (currentCol + 1 <= aquariumSizeColumn - 1 )
             {
                 cellsAround.Add(new int[] { currentRow, currentCol + 1 });
             }
-            if (currentRow + 1 <= aquariumSizeRow )
+            if (currentRow + 1 <= aquariumSizeRow - 1 )
             {
                 cellsAround.Add(new int[] { currentRow + 1, currentCol });
             }
